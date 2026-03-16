@@ -4,7 +4,7 @@ Public release artifacts for **Wellnot** — a symptom and mood tracking app for
 
 ## Install with Obtainium
 
-1. Install [Obtainium](https://github.com/nichokas/obtainium) on your Android device
+1. Install [Obtainium](https://github.com/ImranR98/Obtainium) on your Android device
 2. Add app with URL: `https://github.com/dragid10/Wellnot-releases`
 3. Obtainium will auto-detect new releases and notify you of updates
 
